@@ -25,15 +25,15 @@ Identificar y analizar los principales cambios y tendencias en la generación y 
 
 ### 1. Participación en la generación eléctrica
 
-![Generación](./Analisis_de_Datos/1.png)
+![Generación](https://github.com/Nicolas-MG/Analisis_de_Datos/blob/898bcd5e848e01a9992e0e46cd447e35548822bb/1.png)
 
 ### 2. Participación en el consumo energético
 
-![Consumo](./Analisis_de_Datos/2.png)
+![Consumo](https://github.com/Nicolas-MG/Analisis_de_Datos/blob/898bcd5e848e01a9992e0e46cd447e35548822bb/2.png)
 
 ### 3. Tasa de crecimiento interanual por tipo de fuente
 
-![Tasa de crecimiento]([./Analisis_de_Datos/3.png](https://github.com/Nicolas-MG/Analisis_de_Datos/blob/898bcd5e848e01a9992e0e46cd447e35548822bb/1.png))
+![Tasa de crecimiento](https://github.com/Nicolas-MG/Analisis_de_Datos/blob/898bcd5e848e01a9992e0e46cd447e35548822bb/3.png)
 
 ---
 
