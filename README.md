@@ -33,7 +33,7 @@ Identificar y analizar los principales cambios y tendencias en la generación y 
 
 ### 3. Tasa de crecimiento interanual por tipo de fuente
 
-![Tasa de crecimiento](./Analisis_de_Datos/3.png)
+![Tasa de crecimiento]([./Analisis_de_Datos/3.png](https://github.com/Nicolas-MG/Analisis_de_Datos/blob/898bcd5e848e01a9992e0e46cd447e35548822bb/1.png))
 
 ---
 
